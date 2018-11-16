@@ -1,2 +1,2 @@
-# array-carido-1
+# array-cardio-1
 Playing with Javascript Arrays.
